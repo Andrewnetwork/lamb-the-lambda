@@ -208,7 +208,7 @@ main = do
 ```
 
 # Till Next Time 
-Thanks for taking the time to read my first Haskell post! I'm still learning a great deal about Haskell and find that [trying to explain what you are learning](https://fs.blog/2012/04/feynman-technique/) has many benefits. What I write here doesn't come from a place of sagacity, but from my passion to understand this fantastic language. I may have made some errors in my exposition or framing of concepts, but my code does compile... so I got that going for me. If you found an error, would like to contribute your solution to the exercises, or anything of the collaborative sort, [please see my page on contributing](TODO: LINK). 
+Thanks for taking the time to read my first Haskell post! I'm still learning a great deal about Haskell and find that [trying to explain what you are learning](https://fs.blog/2012/04/feynman-technique/) has many benefits. What I write here doesn't come from a place of sagacity, but from my passion to understand this fantastic language. I may have made some errors in my exposition or framing of concepts, but my code does compile... so I got that going for me. If you found an error, would like to contribute your solution to the exercises, or anything of the collaborative sort, [please see my page on contributing](https://github.com/Andrewnetwork/lamb-the-lambda/blob/master/contrib.md). 
 
 # Exercises
 1. How would you extend these solutions for three lists? 
