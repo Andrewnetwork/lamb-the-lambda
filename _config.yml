@@ -22,7 +22,7 @@ title: Lamb the Lambda
 email: andrewnetwork@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   YAFPB
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "lamb-the-lambda" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: Andrewnetwork
 highlighter: rouge
