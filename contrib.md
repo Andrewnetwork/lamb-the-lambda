@@ -1,4 +1,7 @@
-# Contribute
+---
+title:  "Concost"
+---
+
 Hey! You may want to share something with me and my *potential* readers, thank you! Please see the section relevant to your intended contribution. 
 
 ## You found an error. 
