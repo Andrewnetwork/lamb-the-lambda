@@ -1,5 +1,6 @@
 ---
-title:  "Concost"
+title: "Contribute"
+layout: post
 ---
 
 Hey! You may want to share something with me and my *potential* readers, thank you! Please see the section relevant to your intended contribution. 
@@ -20,8 +21,12 @@ After your contribution is accepted, I will post a link to it in the appropriate
 ## You want to discuss something or suggest an improvement. 
 I don't plan on having a comment section on my blog, but since my blog is hosted on github pages, please create an issue with the `discussion` tag [here](https://github.com/Andrewnetwork/lamb-the-lambda/issues).  
 
+<br/>
+
 ----
 
-# Shout-outs 
+<br/>
+
+# Contribution Shout-outs 
 
 *Nothing is here yet.*
