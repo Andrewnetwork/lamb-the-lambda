@@ -25,7 +25,7 @@ mathjax: true
 
 # Introduction 
 
-{% include figure.html src="img/cartesian.png" 
+{% include figure.html src="img/cartesian.PNG" 
     desc="The cartesian product of [1,2,3] × [1,2,3]" height="230px" width="400px" %}
 
 In [set-builder notation](https://en.wikipedia.org/wiki/Set-builder_notation) from mathematics, the cartesian product is defined as: 
