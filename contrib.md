@@ -1,4 +1,4 @@
-# Contributing to Lamb The Lambda
+# Contribute
 Hey! You may want to share something with me and my *potential* readers, thank you! Please see the section relevant to your intended contribution. 
 
 ## You found an error. 
@@ -20,3 +20,5 @@ I don't plan on having a comment section on my blog, but since my blog is hosted
 ----
 
 # Shout-outs 
+
+*Nothing is here yet.*
