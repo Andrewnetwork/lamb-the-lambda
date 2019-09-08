@@ -1,10 +1,11 @@
 ---
 layout: post
 title:  "Five Ways to Compute the Cartesian Product with Haskell"
-date:   2019-09-06 09:30:44 -0400
+date:   2019-09-07 09:30:44 -0400
 categories: haskell
 author: Andrew Ribeiro 
 mathjax: true
+excerpt: Five Haskell functions which compute the cartesian product using different techniques. My intention is to highlight the diversity and expressiveness Haskell provides and to present a rosetta code which may help you better understand these different techniques by seeing how they each uniquely solve the same problem. 
 ---
 
 {% if page.mathjax %}

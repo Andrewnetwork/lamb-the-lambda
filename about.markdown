@@ -7,9 +7,8 @@ permalink: /about/
 Some stuff about functional programming. 
 
 Social stuff:
-- <a href="https://www.twitch.tv/amathematicalway">Hang out on saturdays from 9 - 11 EST.</a>
-- [Join my discord](https://discord.gg/EjM53rU).
-
+- [Hang out on saturdays from 9 - 11 EST](https://www.twitch.tv/amathematicalway)
+- [Join my discord](https://discord.gg/EjM53rU)
 
 ## ?Name
 With monads you often chain together many lambda functions...

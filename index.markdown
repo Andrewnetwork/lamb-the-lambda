@@ -6,4 +6,6 @@ layout: home
 ---
 <div style="text-align:center">
     <img src="img/logo.png" height="100" width="70"/>
+    &nbsp;
+    <img src="img/logo.png" height="100" width="70"/>
 </div>
