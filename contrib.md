@@ -3,6 +3,13 @@ title: "Contribute"
 layout: post
 ---
 
+<div style="background-color:grey; width:100%; height:100px; overflow-y:scroll; text-align:center; padding-top:10px; border:solid black thin;">
+
+<a href="https://www.reddit.com/user/ibizaman/">ibizaman</a> found a <a href="https://www.reddit.com/r/haskell/comments/d1r8fp/five_ways_to_compute_the_cartesian_product_with/ezr46uu/?context=3">typo</a> in <a href="http://lamb-the-lambda.com/haskell/2019/09/07/five-cartesian.html">Five Ways to Compute the Cartesian Product with Haskell</a>.
+
+</div>
+<div style="text-align:center; margin-bottom:10px;font-style:italic">Contrib Log</div>
+
 Hey! You may want to share something with me and my *potential* readers. Thank you! Please see the section relevant to your intended contribution. 
 
 ## You found an error. 
@@ -20,14 +27,3 @@ After your contribution is accepted, I will post a link to it in the appropriate
 
 ## You want to discuss something or suggest an improvement. 
 I don't plan on having a comment section on my blog, but since my blog is hosted on github pages, please create an issue with the `discussion` tag [here](https://github.com/Andrewnetwork/lamb-the-lambda/issues).  
-
-<br/>
-
-----
-
-<br/>
-
-# Contribution Shout-outs 
-
-[ibizaman](https://www.reddit.com/user/ibizaman/) found a [typo](https://www.reddit.com/r/haskell/comments/d1r8fp/five_ways_to_compute_the_cartesian_product_with/ezr46uu/?context=3) in [Five Ways to Compute the Cartesian Product with Haskell
-](http://lamb-the-lambda.com/haskell/2019/09/07/five-cartesian.html).
