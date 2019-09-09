@@ -46,7 +46,7 @@ cp_lc a b = [ (x,y) | x <- a, y <- b ]
 ```
 Isn't it magnificently delightful that Haskell syntax almost has a direct correspondence to the mathematical notation used to define the cartesian product?! It's like math is coming alive and can actually do for itself what it expresses -- math is the promise, computation is the delivery.
 
-First we should discuss the type of the function `[a] -> [b] -> [(a,b)]`. It states that this function will take a list containing items of type `a` and transform it into a list containing items of type `(a,b)`. This type captures the most general idea of what the cartesian product does and we will see it shared with with the solutions below. 
+First we should discuss the type of the function `[a] -> [b] -> [(a,b)]`. It states that this function will take a list containing items of type `a` and a list of items of type b and transform them both it into a list containing items of type `(a,b)`. This type captures the most general idea of what the cartesian product does and we will see it shared with with the solutions below. 
 
 The terms to the right of `|` are called *generators*. These statements generate the values which are combined by the statement to the left of `|`. The way these values are bound and used to build the output list can be easily expressed by an analogous imperative program:
 ```javascript

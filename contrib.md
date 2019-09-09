@@ -29,4 +29,5 @@ I don't plan on having a comment section on my blog, but since my blog is hosted
 
 # Contribution Shout-outs 
 
-*Nothing is here yet.*
+[ibizaman](https://www.reddit.com/user/ibizaman/) found a [typo](https://www.reddit.com/r/haskell/comments/d1r8fp/five_ways_to_compute_the_cartesian_product_with/ezr46uu/?context=3) in [Five Ways to Compute the Cartesian Product with Haskell
+](http://lamb-the-lambda.com/haskell/2019/09/07/five-cartesian.html).
